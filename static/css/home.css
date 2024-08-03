@@ -1,0 +1,38 @@
+body{
+    margin:0;
+    padding:0;
+}
+
+#home-para{
+    font-family: "Poppins",sans-serif;
+    text-align: left;
+    margin-top: 80px;
+    font-size:larger;
+    font-size: 20px;
+}
+
+
+#welcome{
+    font-size: 60px;
+    font-weight: 800;
+    color:rgb(0, 0, 0)
+}
+
+#Geometrics{
+    font-size: 60px;
+    font-weight: 800;
+    color:rgb(133, 231, 138)
+}
+
+#About-heading{
+    font-family:'Poppins',sans-serif;
+}
+
+#about-para{
+    font-size: 20px;
+    text-align: left;
+}
+
+#Features-heading{
+    font-family: 'Poppins',sans-serif;
+}
